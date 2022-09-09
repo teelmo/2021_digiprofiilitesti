@@ -195,7 +195,7 @@
     "category_title":false,
     "choices":[
       [{
-        "correct":"Facebook",
+        "correct":"Whatsapp",
         "text":"Meta"
       },{
         "correct":"Google",
@@ -214,7 +214,7 @@
         "text":"Chrome"
       }],
       [{
-        "text":"Facebook"
+        "text":"Whatsapp"
       },{
         "text":"Google"
       },{
