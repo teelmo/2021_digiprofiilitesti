@@ -196,7 +196,7 @@
     "choices":[
       [{
         "correct":"Whatsapp",
-        "text":"Meta"
+        "text":"Whatsapp"
       },{
         "correct":"Google",
         "text":"Youtube"
@@ -214,7 +214,7 @@
         "text":"Chrome"
       }],
       [{
-        "text":"Whatsapp"
+        "text":"Meta"
       },{
         "text":"Google"
       },{
@@ -701,7 +701,7 @@
         "text":"Linkedin"
       }],
       [{
-        "text":"jaan tanssi-, lip sync- ja sketsivideoita"
+        "text":"teen lyhyitä videoita"
       },{
         "text":"jaan kuvia, videoita ja tarinoita"
       },{
