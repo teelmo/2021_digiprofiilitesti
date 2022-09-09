@@ -1,0 +1,10 @@
+{
+  "mainfile": "dataviz.html",
+  "js": [
+    "js/script.min.js"
+  ],
+  "css": [
+    "css/styles.min.css",
+    "fonts.css"
+  ]
+}

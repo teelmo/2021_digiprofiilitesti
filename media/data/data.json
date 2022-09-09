@@ -1,0 +1,919 @@
+{
+  "categories":[{
+     "css":{
+      "backgroundImage": "linear-gradient(117deg, rgba(197,144,231,1) 0%, rgba(161,114,211,1) 20%, rgba(105,62,200,1) 100%)",
+      "color": "#6d149d",
+      "content_background_color":"rgba(255, 255, 255, 0.5)",
+      "content_background_color_no_backdrop":"rgba(255, 255, 255, 0.6)",
+      "content_border":"1px solid rgba(255, 255, 255, 0.6)",
+      "content_border_no_backdrop":"1px solid rgba(255, 255, 255, 0.75)",
+      "label_background_color":"rgba(255, 255, 255, 1)",
+      "result_background_color":"#fff"
+    },
+    "particles":[{
+      "height":180,
+      "src":"//lusi-dataviz.ylestatic.fi/2021_digiprofiilitesti/img/particles/0_lukko.png",
+      "width":104
+    },{
+      "height":200,
+      "src":"//lusi-dataviz.ylestatic.fi/2021_digiprofiilitesti/img/particles/0_peukku.png",
+      "width":170
+    },{
+      "height":113,
+      "src":"//lusi-dataviz.ylestatic.fi/2021_digiprofiilitesti/img/particles/0_pilvi.png",
+      "width":200
+    }]
+  },{
+     "css":{
+      "backgroundImage": "linear-gradient(135deg, rgba(255,187,182,1) 0%, rgba(255,182,182,1) 20%, rgba(255,80,143,1) 100%)",
+      "color": "#761758",
+      "color_selected": "#fff",
+      "compine_to_border_color":"rgba(118, 23, 88, 0.3)",
+      "content_background_color":"rgba(255, 255, 255, 0.5)",
+      "content_background_color_no_backdrop":"rgba(255, 255, 255, 0.6)",
+      "content_border":"1px solid rgba(255, 255, 255, 0.6)",
+      "content_border_no_backdrop":"1px solid rgba(255, 255, 255, 0.75)",
+      "label_background_color":"rgba(255, 255, 255, 1)",
+      "label_background_color_selected":"#761758",
+      "result_background_color":"#fff"
+    },
+    "particles":[{
+      "height":156,
+      "src":"//lusi-dataviz.ylestatic.fi/2021_digiprofiilitesti/img/particles/1_kirjekuori.png",
+      "width":200
+    },{
+      "height":150,
+      "src":"//lusi-dataviz.ylestatic.fi/2021_digiprofiilitesti/img/particles/1_kursori.png",
+      "width":101
+    },{
+      "height":200,
+      "src":"//lusi-dataviz.ylestatic.fi/2021_digiprofiilitesti/img/particles/1_suurennuslasi.png",
+      "width":142
+    }]
+  },{
+     "css":{
+      "backgroundImage": "linear-gradient(135deg, rgba(255,137,168,1) 0%, rgba(255,100,156,1) 25%, rgba(71,32,119,1) 100%)",
+      "color": "#630178",
+      "color_selected": "#fff",
+      "compine_to_border_color":"rgba(99, 1, 120, 0.3)",
+      "content_background_color":"rgba(255, 255, 255, 0.5)",
+      "content_background_color_no_backdrop":"rgba(255, 255, 255, 0.6)",
+      "content_border":"1px solid rgba(255, 255, 255, 0.6)",
+      "content_border_no_backdrop":"1px solid rgba(255, 255, 255, 0.75)",
+      "label_background_color":"rgba(255, 255, 255, 1)",
+      "label_background_color_selected":"#630178",
+      "result_background_color":"#fff"
+    },
+    "particles":[{
+      "height":200,
+      "src":"//lusi-dataviz.ylestatic.fi/2021_digiprofiilitesti/img/particles/2_perushymio.png",
+      "width":191
+    },{
+      "height":113,
+      "src":"//lusi-dataviz.ylestatic.fi/2021_digiprofiilitesti/img/particles/2_pilvi.png",
+      "width":200
+    },{
+      "height":200,
+      "src":"//lusi-dataviz.ylestatic.fi/2021_digiprofiilitesti/img/particles/2_wifi.png",
+      "width":161
+    }]
+  },{
+     "css":{
+      "backgroundImage": "linear-gradient(312deg, rgba(61,236,255,1) 0%, rgba(29,62,149,1) 70%, rgba(0,10,61,1) 100%)",
+      "color": "#0f1e6c",
+      "color_selected": "#fff",
+      "compine_to_border_color":"rgba(196, 239, 255, 0.3)",
+      "content_background_color":"rgba(186, 235, 255, 0.5)",
+      "content_background_color_no_backdrop":"rgba(186, 235, 255, 0.6)",
+      "content_border":"1px solid rgba(255, 255, 255, 0.6)",
+      "content_border_no_backdrop":"1px solid rgba(255, 255, 255, 0.75)",
+      "label_background_color":"rgba(255, 255, 255, 1)",
+      "label_background_color_selected":"#0f1e6c",
+      "result_background_color":"#fff"
+    },
+    "particles":[{
+      "height":93,
+      "src":"//lusi-dataviz.ylestatic.fi/2021_digiprofiilitesti/img/particles/3_avain.png",
+      "width":200
+    },{
+      "height":200,
+      "src":"//lusi-dataviz.ylestatic.fi/2021_digiprofiilitesti/img/particles/3_lukko.png",
+      "width":115
+    },{
+      "height":195,
+      "src":"//lusi-dataviz.ylestatic.fi/2021_digiprofiilitesti/img/particles/3_varoituskolmio.png",
+      "width":200
+   }]
+  },{
+     "css":{
+      "backgroundImage": "linear-gradient(146deg, rgba(130,236,242,1) 0%, rgba(37,234,245,1) 10%, rgba(214,107,196,1) 80%, rgba(207,68,184,1) 100%)",
+      "color": "#044786",
+      "color_selected": "#fff",
+      "compine_to_border_color":"rgba(4, 71, 134, 0.3)",
+      "content_background_color":"rgba(255, 255, 255, 0.5)",
+      "content_background_color_no_backdrop":"rgba(255, 255, 255, 0.6)",
+      "content_border":"1px solid rgba(255, 255, 255, 0.6)",
+      "content_border_no_backdrop":"1px solid rgba(255, 255, 255, 0.75)",
+      "label_background_color":"rgba(255, 255, 255, 1)",
+      "label_background_color_selected":"#044786",
+      "result_background_color":"#fff"
+    },
+    "particles":[{
+      "height":200,
+      "src":"//lusi-dataviz.ylestatic.fi/2021_digiprofiilitesti/img/particles/4_peukku.png",
+      "width":171
+    },{
+      "height":151,
+      "src":"//lusi-dataviz.ylestatic.fi/2021_digiprofiilitesti/img/particles/4_puhekupla.png",
+      "width":200
+    },{
+      "height":188,
+      "src":"//lusi-dataviz.ylestatic.fi/2021_digiprofiilitesti/img/particles/4_sydan.png",
+      "width":200
+    }]
+  },{
+     "css":{
+      "backgroundImage": " linear-gradient(117deg, rgba(197,144,231,1) 0%, rgba(161,114,211,1) 20%, rgba(105,62,200,1) 100%)",
+      "color": "#6d149d",
+      "content_background_color":"rgba(255, 255, 255, 0.8)",
+      "content_background_color_no_backdrop":"rgba(255, 255, 255, 0.8)",
+      "content_border":"1px solid rgba(255, 255, 255, 0.6)",
+      "content_border_no_backdrop":"1px solid rgba(255, 255, 255, 0.75)",
+      "label_background_color":"rgba(255, 255, 255, 1)",
+      "label_background_color_selected":"#fff",
+      "result_background_color":"#fff"
+    },
+    "particles":[]
+  }],
+  "questions":[{
+    "category_id":1,
+    "category_last_question":false,
+    "category_title":"Yleiset nettitaidot",
+    "choices":[{
+      "points":2,
+      "result_text":"Ei ihme, jos tunnet vain Googlen haun. Lähes kaikki suomalaisten nettihaut tehdään sillä.",
+      "text":"0–1"
+    },{
+      "points":3,
+      "result_text":"Hyvä! Googlen ohella Suomessa tunnetaan melko hyvin esimerkiksi nämä: Microsoft Bing, Duckduckgo ja Yandex.",
+      "text":"2"
+    },{
+      "points":4,
+      "result_text":"Hyvä! Hakukoneita on monia. Olet ehkä käyttänyt esimerkiksi yksityisyydestä tarkkaa Duckduckgo'ta?",
+      "text":"3 tai enemmän"
+    }],
+    "desc":false,
+    "id":0,
+    "shuffle":false,
+    "title":"Montako hakukonetta tiedät nimeltä?",
+    "type":"radio"
+  },{
+    "category_id":1,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[{
+      "result_text":"Tili voi olla maksullinen tai maksuton. Yleensä voit itse säätää tilin asetuksista esimerkiksi ilmoituksia ja yksityisyyttä.\n\nTunnuksissa on normaalisti kaksi osaa: käyttäjätunnus (se on useimmiten meiliosoitteesi) ja tilikohtainen, itse valitsemasi salasana.",
+      "points":0,
+      "text":"Palvelu on maksullinen."
+    },{
+      "result_text":"Tili voi olla maksullinen tai maksuton. Yleensä voit itse säätää tilin asetuksista esimerkiksi ilmoituksia ja yksityisyyttä.\n\nTunnuksissa on normaalisti kaksi osaa: käyttäjätunnus (se on useimmiten meiliosoitteesi) ja tilikohtainen, itse valitsemasi salasana.",
+      "points":3,
+      "text":"Voin käyttää palvelua kirjautumalla sinne omilla tunnuksillani."
+    },{
+      "result_text":"Tili voi olla maksullinen tai maksuton. Yleensä voit itse säätää tilin asetuksista esimerkiksi ilmoituksia ja yksityisyyttä.\n\nTunnuksissa on normaalisti kaksi osaa: käyttäjätunnus (se on useimmiten meiliosoitteesi) ja tilikohtainen, itse valitsemasi salasana.",
+      "points":0,
+      "text":"En voi vaikuttaa siihen, mitä ilmoituksia saan palvelusta laitteilleni."
+    }],
+    "desc":"Valitse oikea vastaus.",
+    "id":1,
+    "shuffle":true,
+    "title":"Mitä merkitsee, että sinulla on tili jossain netin palvelussa?",
+    "type":"radio"
+  },{
+    "category_id":1,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[
+      [{
+        "correct":"Facebook",
+        "text":"Meta"
+      },{
+        "correct":"Google",
+        "text":"Youtube"
+      },{
+        "correct":"Bytedance",
+        "text":"Tiktok"
+      },{
+        "correct":"Microsoft",
+        "text":"Teams"
+      },{
+        "correct":"Apple",
+        "text":"Safari"
+      },{
+        "correct":"Google",
+        "text":"Chrome"
+      }],
+      [{
+        "text":"Facebook"
+      },{
+        "text":"Google"
+      },{
+        "text":"Bytedance"
+      },{
+        "text":"Microsoft"
+      },{
+        "text":"Apple"
+      },{
+        "text":"Google"
+      }]
+    ],
+    "desc":"Yhdistä omistaja ja palvelu pareiksi. Napauta peräkkäin palvelua ja sen omistajaa.",
+    "id":2,
+    "points":[0,1,2,3,4,5,6],
+    "result_text":"Maailmassa on muutama todellinen digijätti: Google, Apple, Meta (joka omistaa Facebookin, Whatsappin ja Instagramin), Amazon ja Microsoft – kaikki USA:sta. Kiinalainen Bytedance on vähitellen kiilannut samaan seuraan.\n\nMuut kiinalaiset jätit, kuten maksualustat WeChat ja Alipay eivät ole levinneet laajasti länsimaihin.",
+    "shuffle":true,
+    "title":"Kuinka hyvin tunnet digipalvelujen omistajia?",
+    "type":"compine"
+  },{
+    "category_id":1,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[{
+      "correct":false,
+      "text":"Pyydän puheenvuoroa hihkaisemalla kuuluvasti."
+    },{
+      "correct":true,
+      "text":"Pidän mikrofonin kiinni, kun en itse puhu."
+    },{
+      "correct":true,
+      "text":"Tarkistan, että kasvoni näkyvät kuvassa kokonaan."
+    },{
+      "correct":false,
+      "text":"Ennen etätapaamiseen osallistumista pitää aina ladata ohjelma tai palaverityökalu omalle laitteelle."
+    }],
+    "desc":"Tiedätkö, mitä niissä on hyvä ottaa huomioon? Valitse kaksi parasta vaihtoehtoa.",
+    "id":3,
+    "max_count":2,
+    "points":[0,2,4],
+    "result_text":"Monissa etäpalaverityökaluissa (Teams, Meet, Zoom, Jitsi jne.) on valikossa käden kuva, jota painamalla voit pyytää puheenvuoroa. Älä siis hihkaise.\n\nUsein etätapahtumiin voi osallistua nettiselaimen kautta. Silloin ohjelmaa tai sovellusta ei tarvitse ladata erikseen.",
+    "shuffle":true,
+    "title":"Oletko osallistunut etäopetukseen, etäpalavereihin ja webinaareihin?",
+    "type":"checkbox"
+  },{
+    "category_id":1,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[{
+      "result_text":"Todennäköisesti sinulla on esimerkiksi Google-, Apple- tai Microsoft-tilin vaatima meiliosoite.\n\nIlman sähköpostiosoitetta ei digimaailmassa pärjää.",
+      "points":2,
+      "text":"0–1"
+    },{
+      "result_text":"Hyvä. Eri käyttötarkoituksiin voi luoda omia meiliosoitteita.\n\nVarmaan tiedätkin, että kaikki meilit voi lukea samasta palvelusta.",
+      "points":3,
+      "text":"2 tai enemmän"
+    },{
+      "result_text":"Hyvin toimittu!",
+      "points":4,
+      "text":"Sillä ei ole merkitystä – osaan helposti luoda meilejä lyhytaikaiseen käyttöön"
+    }],
+    "desc":false,
+    "id":4,
+    "shuffle":false,
+    "title":"Kuinka monta sähköpostiosoitetta sinulla on?",
+    "type":"radio"
+  },{
+    "category_id":1,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[
+      [{
+        "correct":"näytön kuva suurenee",
+        "text":"näppäinkomento Ctrl + tai Cmd +"
+      },{
+        "correct":"näen lisää toimintoja",
+        "text":"hiiren kakkospainike"
+      },{
+        "correct":"näet erikoismerkit",
+        "text":"pitkä painallus puhelimen näppäimellä"
+      },{
+        "correct":"sanelen kirjoittamisen sijaan",
+        "text":"mikrofonin kuva näppäimistöllä"
+      }],
+      [{
+        "text":"näytön kuva suurenee"
+      },{
+        "text":"näen lisää toimintoja"
+      },{
+        "text":"näet erikoismerkit"
+      },{
+        "text":"sanelen kirjoittamisen sijaan"
+      }]
+    ],
+    "desc":"Yhdistä sopivat parit.",
+    "id":5,
+    "points":[0,1,2,3,4],
+    "result_text":"Digilaitteissa on paljon käyttöä helpottavia ominaisuuksia.\n\nPikakomento Ctrl + on tietokoneella kätevä, mutta myös puhelimessa voit suurentaa tekstiä tai kuvakkeita.\n\nKomento Ctrl - (miinus) pienentää kuvaa.",
+    "shuffle":true,
+    "title":"Tässä on joitakin digilaitteiden käyttöä helpottavia toimintoja.",
+    "type":"compine"
+  },{
+    "category_id":1,
+    "category_last_question":true,
+    "category_title":false,
+    "choices":[{
+      "result_text":"Avun pyytäminen on viisauden merkki.\n\nToivottavasti lähipiirissäsi on auttajia. Myös julkinen puoli ja järjestöt auttavat.",
+      "points":2,
+      "text":"Tarvitsen melko usein apua digipulmiini muilta."
+    },{
+      "result_text":"Hienoa!",
+      "points":4,
+      "text":"Pärjään kohtuullisesti omin avuin ja osaan auttaa muita ihan perusasioissa."
+    },{
+      "result_text":"Mahtavaa!",
+      "points":6,
+      "text":"Olen hyvä auttamaan muita, melkein ongelmassa kuin ongelmassa."
+    }],
+    "desc":"Mikä näistä kuvaa sinua parhaiten?",
+    "id":6,
+    "shuffle":false,
+    "title":"Useimmat kaipaavat joskus apua erilaisten digipulmien tai -ongelmien kanssa.",
+    "type":"radio"
+  },{
+    "category_id":2,
+    "category_last_question":false,
+    "category_title":"Termit ja kuvakkeet",
+    "choices":[
+      [{
+        "correct":"kiitos",
+        "img":"8_1_rukoilu_250px.png",
+        "img_selected":"8_1_rukoilu_250px.png",
+        "text":"kädet yhdessä -emoji"
+      },{
+        "correct":"mahtavaa",
+        "img":"8_2_liekki_250px.png",
+        "img_selected":"8_2_liekki_250px.png",
+        "text":"liekki-emoji"
+      },{
+        "correct":"olen itseeni tyytyväinen",
+        "img":"8_3_pyhimys_250.png",
+        "img_selected":"8_3_pyhimys_250.png",
+        "text":"sädekehä-emoji"
+      },{
+        "correct":"miehen sukuelin",
+        "img":"8_4_munakoiso_250px.png",
+        "img_selected":"8_4_munakoiso_250px.png",
+        "text":"munakoiso-emoni"
+      },{
+        "correct":"vanhanaikainen hymy",
+        "img":"8_5_hymy_musta_250px.png",
+        "img_selected":"8_5_hymy_valko_250px.png",
+        "text":":)"
+      },{
+        "correct":"hajoamaton",
+        "img":"8_6_nokia_250px.png",
+        "img_selected":"8_6_nokia_250px.png",
+        "text":"Nokia 3310"
+      }],
+      [{
+        "text":"kiitos"
+      },{
+        "text":"mahtavaa"
+      },{
+        "text":"olen itseeni tyytyväinen"
+      },{
+        "text":"miehen sukuelin"
+      },{
+        "text":"vanhanaikainen hymy"
+      },{
+        "text":"hajoamaton"
+      }]
+    ],
+    "desc":"Yhdistä sopivimmat parit.",
+    "id":7,
+    "points":[0,1,2,3,4,5,6],
+    "result_text":"Emojien merkitykset eivät ole kiveen hakattuja.\n\nSuomi julkaisi ensimmäisenä maana maailmassa valtiollisia emojeja. Nokia 3310 -klassikkopuhelin kuuluu niihin.",
+    "shuffle":true,
+    "title":"Tunnetko emojeita eli hymiöitä?",
+    "type":"compine"
+  },{
+    "category_id":2,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[{
+      "result_text":"Algoritmi on ohjeiden kokoelma, eräänlainen matemaattinen resepti.\n\nSomen tehokkaista algoritmeista puhutaan paljon, mutta sinänsä algoritmi on neutraali käsite.\n\nEvästeet tallentavat selaustietojasi netissä.\n\nSekä algoritmeissa että evästeissä on hyvää ja huonoa. Kumpaakin voidaan käyttää esimerkiksi seurannan tai mainonnan kohdentamisen apuna.",
+      "points":0,
+      "text":"Vain sosiaalisessa mediassa käytettäviä ohjailukeinoja"
+    },{
+      "result_text":"Algoritmi on ohjeiden kokoelma, eräänlainen matemaattinen resepti.\n\nSomen tehokkaista algoritmeista puhutaan paljon, mutta sinänsä algoritmi on neutraali käsite.\n\nEvästeet tallentavat selaustietojasi netissä.\n\nSekä algoritmeissa että evästeissä on hyvää ja huonoa. Kumpaakin voidaan käyttää esimerkiksi seurannan tai mainonnan kohdentamisen apuna.",
+      "points":0,
+      "text":"Sama asia kuin evästeet"
+    },{
+      "result_text":"Algoritmi on ohjeiden kokoelma, eräänlainen matemaattinen resepti.\n\nSomen tehokkaista algoritmeista puhutaan paljon, mutta sinänsä algoritmi on neutraali käsite.\n\nEvästeet tallentavat selaustietojasi netissä.\n\nSekä algoritmeissa että evästeissä on hyvää ja huonoa. Kumpaakin voidaan käyttää esimerkiksi seurannan tai mainonnan kohdentamisen apuna.",
+      "points":3,
+      "text":"Tarkkoja ohjeita tietokoneelle tietyn tehtävän tai prosessin suorittamiseksi"
+    }],
+    "desc":"Valitse oikea vastaus.",
+    "id":8,
+    "shuffle":true,
+    "title":"Algoritmeista puhutaan paljon, mutta mitä ne ovat?",
+    "type":"radio"
+  },{
+    "category_id":2,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[{
+      "correct":0,
+      "text":"2 Tt"
+    },{
+      "correct":1,
+      "text":"64 Gt"
+    },{
+      "correct":2,
+      "text":"23 Mt"
+    },{
+      "correct":3,
+      "text":"200 kt"
+    }],
+    "desc":"Laita nämä tiedostot järjestykseen koon mukaan. Etene suurimmasta pienimpään.",
+    "id":9,
+    "points":[0,1,2,3,3],
+    "result_text":"Esimerkkejä näistä:\n\n- 2 Tt (teratavua) – iso ulkoinen kovalevy.\n- 64 Gt (gigatavua) – talllennustilan määrä monissa puhelimissa.\n- 23 Mt (megatavua) – puhelimella kuvattu muutaman minuutin video.\n- 200 kt (kilotavua) – lyhyt tekstitiedosto.",
+    "shuffle":true,
+    "title":"Erotatko kilot, megat ja gigat?",
+    "type":"order"
+  },{
+    "category_id":2,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[{
+      "correct":true,
+      "img":"11_1_angryBird.png",
+      "text":"Angry Birds"
+    },{
+      "correct":false,
+      "img":"11_2_pokemon.png",
+      "text":"Pokemon Go"
+    },{
+      "correct":true,
+      "img":"11_3_clash.png",
+      "text":"Clash of Clans"
+    },{
+      "correct":true,
+      "img":"11_4_control.png",
+      "text":"Control"
+    },{
+      "correct":false,
+      "img":"11_5_tetris.png",
+      "text":"Tetris"
+    },{
+      "correct":false,
+      "img":"11_6_call of duty.png",
+      "text":"Call of Duty"
+    }],
+    "desc":"Valitse kolme oikeaa.",
+    "id":10,
+    "max_count":3,
+    "points":[0,2,2,4],
+    "result_text":"Suomessa kehitettyjä ovat nämä: Angry Birds (Rovio, alkaen 2009), Clash of Clans (Supercell, alkaen 2012) ja Control (Remedy, 2019).\n\nTetriksen kotimaa on Neuvostoliitto (1984).\n\nCall of Duty on USA:lainen suosittu sotapelisarja.\n\nPokemon Go -mobiilipeli on kehitetty USA:ssa, vaikka hahmot ovat alunperin Japanista.",
+    "shuffle":true,
+    "title":"Peliala on Suomessa melko iso. Mitkä näistä peleistä ovat suomalaisia?",
+    "type":"checkbox"
+  },{
+    "category_id":2,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[
+      [{
+        "correct":"langaton lähiverkko, ei salasanaa",
+        "text":"avoin wifi"
+      },{
+        "correct":"kiinteän verkon yksi muoto",
+        "text":"valokuituverkko"
+      },{
+        "correct":"jakaa puhelimen nettiyhteyden",
+        "text":"mobiilitukiasema"
+      },{
+        "correct":"ilman nettiyhteyttä toimiva",
+        "text":"offline"
+      },{
+        "correct":"tietoverkkoja yhdistävä laite",
+        "text":"reititin"
+      }],
+      [{
+        "text":"langaton lähiverkko, ei salasanaa"
+      },{
+        "text":"kiinteän verkon yksi muoto"
+      },{
+        "text":"jakaa puhelimen nettiyhteyden"
+      },{
+        "text":"ilman nettiyhteyttä toimiva"
+      },{
+        "text":"tietoverkkoja yhdistävä laite"
+      }]
+    ],
+    "desc":"Yhdistä pariksi sana ja sen selitys",
+    "id":11,
+    "points":[0,2,3,4,4,6],
+    "result_text":"Tiesithän, että avointen wifi-verkkojen tietoturva ei ole paras mahdollinen.\n\nMyös sellainen wifi-verkko, jonka salasana lukee esimerkiksi kahvilan seinällä, on avoin.",
+    "shuffle":true,
+    "title":"Menet nettiin nettiyhteydellä eli liittymällä johonkin verkkoon. Tässä on siihen liittyviä sanoja.",
+    "type":"compine"
+  },{
+    "category_id":2,
+    "category_last_question":true,
+    "category_title":false,
+    "choices":[{
+      "img":"13_1_itku_250px.png",
+      "result_text":"Ei huolta – näitä termejä sinun ei tarvitse peruskäyttäjänä osata.",
+      "points":2,
+      "text":"kauhistunut emoji"
+    },{
+      "img":"13_2_ajattelija_250px.png",
+      "result_text":"Ei huolta – näitä termejä sinun ei tarvitse peruskäyttäjänä osata.",
+      "points":3,
+      "text":"tylsistynyt / pohtiva emoji"
+    },{
+      "img":"13_3_nortti_250px.png",
+      "result_text":"Hyvä! Muistathan, että kaikille tietotekniset termit eivät avaudu ilman selitystä.",
+      "points":4,
+      "text":"nörtti-ikoni ehkä tai käsiemoji, jossa on peukku ja etusormi nollan muodossa"
+    }],
+    "desc":false,
+    "id":12,
+    "shuffle":true,
+    "title":"Mikä näistä kuvaa tunnelmiasi, kun kuulet sanat laiteajuri, liitännäinen tai emolevy?",
+    "type":"radio"
+  },{
+    "category_id":3,
+    "category_last_question":false,
+    "category_title":"Tietoturva",
+    "choices":[{
+      "result_text":"Näin ajattelee moni.\n\nEt voi kuitenkaan tietää, mihin dataasi mahdollisesti tulevaisuudessa käytetään.",
+      "points":2,
+      "text":"Minulla ei ole mitään salattavaa."
+    },{
+      "result_text":"Hyvä – suuntasi on oikea!\n\nEsimerkiksi sijainnin jättäminen pois somekuvista ei ole vaikeata. Aloita vaikka kokeilemalla sitä.",
+      "points":3,
+      "text":"Haluaisin hallita sitä, mitä tietoja annan itsestäni – mutta useimmiten en osaa tai jaksa."
+    },{
+      "result_text":"Hienoa! Data on yksi arvokkaimmista omaisuuksistasi.\n\nIkävä kyllä sen hallintaan joutuu käyttämään jonkin verran aikaa ja vaivaa.",
+      "points":4,
+      "text":"Yritän hallita ja hillitä sitä, mitä tietoja annan itsestäni."
+    }],
+    "desc":"Valitse omimmalta tuntuva vaihtoehto.",
+    "id":13,
+    "shuffle":true,
+    "title":"Mitä ajattelet omasta datastasi?",
+    "type":"radio"
+  },{
+    "category_id":3,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[{
+      "correct":0,
+      "text":"Hyvä1KylläMuistaaOlisi"
+    },{
+      "correct":1,
+      "text":"lahopää631"
+    },{
+      "correct":2,
+      "text":"salasana123"
+    }],
+    "desc":"Laita nämä salasanat paremmuusjärjestykseen. Klikkaa ensin turvallisinta ja lopuksi turvattominta.",
+    "id":14,
+    "points":[0,2,2,4],
+    "result_text":"Hyvä! Pääsääntö on: Mitä pidempi, sen parempi.\n\nTärkeimpiin palveluihin, kuten sähköpostitilille, kannattaa luoda omaperäinen salasanalause.\n\nNumerolistat ja sanakirjan sanat murretaan jopa sekunneissa.",
+    "shuffle":true,
+    "title":"Salasanat ovat digielämän pakollinen vitsaus.",
+    "type":"order"
+  },{
+    "category_id":3,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[{
+      "result_text":"Lukko kertoo, että yhteys oman laitteesi ja nettisivun välillä on suojattu.\n\nSe EI kuitenkaan takaa itse nettisivun turvallisuutta.",
+      "points":0,
+      "text":"Sivulle ei tarvitse syöttää salasanaa."
+    },{
+      "result_text":"Lukko kertoo, että yhteys oman laitteesi ja nettisivun välillä on suojattu.\n\nSe EI kuitenkaan takaa itse nettisivun turvallisuutta.",
+      "points":1,
+      "text":"Voin luottaa sivun turvallisuuteen."
+    },{
+      "result_text":"Juuri näin! Lukko tai https osoitteen alussa suojaa yhteyden, mutta se ei takaa itse nettisivun turvallisuutta.",
+      "points":4,
+      "text":"Yhteys oman laitteeni ja sivun välillä on suojattu."
+    }],
+    "desc":false,
+    "id":15,
+    "shuffle":true,
+    "title":"Mistä kertoo tämä kuva nettiosoitteen alussa?",
+    "title_img":"16_lukko.png",
+    "title_img_alt":"Lukko",
+    "type":"radio"
+  },{
+    "category_id":3,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[{
+      "result_text":"Ymmärrettävää! Paperilistat eivät kuitenkaan ole kyllin turvallisia. Ne poistuvat aktiivikäytöstä ennemmin tai myöhemmin.\n\nJoissakin pankeissa voi tunnistautua pienellä tunnuslukulaitteella.",
+      "points":2,
+      "text":"En haluaisi luopua pankin paperisesta tunnuslukulistasta."
+    },{
+      "result_text":"Hyvä! Ehkä tiedätkin, että pankkien mobiilisovellukset ovat vähintään yhtä turvallisia kuin selaimella käytettävät verkkopankit.",
+      "points":3,
+      "text":"Menen pankkiin selaimella. Osaan kirjautua verkkopankkiin pankin tunnuslukusovelluksella."
+    },{
+      "result_text":"Hyvä! Joissakin harvinaisemmissa pankkiasioissa saatat edelleen tarvita verkkopankkia.",
+      "points":4,
+      "text":"Hoidan lähes kaikki pankkiasiat puhelimen tai tabletin sovelluksilla."
+    }],
+    "desc":false,
+    "id":16,
+    "shuffle":true,
+    "title":"Mikä näistä kuvaa parhaiten suhdettasi pankkiasiointiin?",
+    "type":"radio"
+  },{
+    "category_id":3,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[{
+      "correct":false,
+      "text":"Vastaan aina rehellisesti, kun palvelut kysyvät syntymäpäivääni tai perhetilannettani."
+    },{
+      "correct":true,
+      "text":"Minulla on tärkeimmissä palveluissa käytössä kaksinkertainen kirjautuminen."
+    },{
+      "correct":false,
+      "text":"Avaan kaikki saamani liitteet."
+    },{
+      "correct":true,
+      "text":"En anna puhelimessa kenellekään maksukorttitietojani."
+    }],
+    "desc":"Valitse näistä kaksi fiksua toimintatapaa.",
+    "id":17,
+    "max_count":2,
+    "points":[0,1,3],
+    "result_text":"Annathan palveluille vain ne tietosi, joita ne oikeasti tarvitsevat toimiakseen.\n\nEpäilyttävien liitteiden avaamisesta ei aina ole vaaraa. On silti parempi olla ottamatta riskiä.",
+    "shuffle":true,
+    "title":"Netissä tapahtuu valitettavasti rikollista tietojen kalastelua. Voit pienentää riskiä hieman omin toimin.",
+    "type":"checkbox"
+  },{
+    "category_id":3,
+    "category_last_question":true,
+    "category_title":false,
+    "choices":[{
+      "result_text":"Käänteinen kuvahaku kertoo, missä muualla samaa tai samankaltaista kuvaa on netissä käytetty.\n\nNäin voit tarkistaa esimerkiksi sen, onko upea somekuva aito vai kopioitu.",
+      "points":2,
+      "text":"En tiedä, mitä se tarkoittaa."
+    },{
+      "result_text":"Käänteinen kuvahaku kertoo, missä muualla samaa kuvaa on netissä käytetty.\n\nNäin voit tarkistaa esimerkiksi sen, onko somekuva tai uutiskuva aito.",
+      "points":3,
+      "text":"Se liittyy jotenkin kuvien aitouteen."
+    },{
+      "result_text":"Hyvä! Käänteisellä kuvahaulla voit tarkistaa esimerkiksi sen, onko dramaattinen uutiskuva aito vai ehkä kopioitu jostain muualta.",
+      "points":4,
+      "text":"Se kertoo, missä muualla on ehkä käytetty samaa kuvaa."
+    }],
+    "desc":"Valitse omimmalta tuntuva vaihtoehto.",
+    "id":18,
+    "shuffle":true,
+    "title":"Mitä käsite \"käänteinen kuvahaku\" sanoo sinulle?",
+    "type":"radio"
+  },{
+    "category_id":4,
+    "category_last_question":false,
+    "category_title":"Sosiaalinen media",
+    "choices":[
+      [{
+        "correct":"teen lyhyitä videoita",
+        "text":"Tiktok"
+      },{
+        "correct":"jaan kuvia, videoita ja tarinoita",
+        "text":"Instagram"
+      },{
+        "correct":"tapaan muita pelaajia",
+        "text":"Discord"
+      },{
+        "correct":"keskustelen anonyymina",
+        "text":"Jodel"
+      },{
+        "correct":"verkostoidun työelämässä",
+        "text":"Linkedin"
+      }],
+      [{
+        "text":"jaan tanssi-, lip sync- ja sketsivideoita"
+      },{
+        "text":"jaan kuvia, videoita ja tarinoita"
+      },{
+        "text":"tapaan muita pelaajia"
+      },{
+        "text":"keskustelen anonyymina"
+      },{
+        "text":"verkostoidun työelämässä"
+      }]
+    ],
+    "desc":"Yhdistä palvelun nimi ja selitys pariksi.",
+    "id":19,
+    "points":[0,1,1,2,2,3],
+    "result_text":"Hyvä! Somepalveluja on joka makuun ja lähtöön.",
+    "shuffle":true,
+    "title":"Mitä sosiaalisen median eri palveluissa tehdään?",
+    "type":"compine"
+  },{
+    "category_id":4,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[{
+      "correct":false,
+      "text":"Jos minulla on tärkeää asiaa, kirjoitan ISOIN KIRJAIMIN."
+    },{
+      "correct":true,
+      "text":"Jaan julkaisun tai postauksen vasta sen jälkeen, kun olen tutustunut sen sisältöön."
+    },{
+      "correct":true,
+      "text":"Julkaisen harkiten, vaikka kyseessä olisi suljettu tai yksityinen ryhmä tai tili."
+    },{
+      "correct":false,
+      "text":"Vakavia aiheita on hyvä käsitellä huumorilla."
+    }],
+    "desc":"Valitse seuraavista kaksi fiksua toimintatapaa.",
+    "id":20,
+    "max_count":2,
+    "points":[0,1,3],
+    "result_text":"Varmaan tiesitkin: ISOT KIRJAIMET tarkoittavat digiviestinnässä huutamista. Niitä ei yleensä kannata käyttää.\n\nHuumori on vaikea laji, erityisesti somessa. Käytä sitä harkiten.",
+    "shuffle":true,
+    "title":"Somessa on mukavampaa, kun kaikki noudattavat hyvää netikettiä eli netin käytöstapoja.",
+    "type":"checkbox"
+  },{
+    "category_id":4,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[{
+      "result_text":"Älä huoli – apua löytyy kyllä.\n\nIsoilla palveluilla on yleensä suomenkieliset ohjeet yksityisyysasetusten säätämiseksi.",
+      "points":2,
+      "text":"En tiedä, mitä tehdä."
+    },{
+      "result_text":"Salasana on hyvä silloin tällöin vaihtaa.\n\nTärkeämpää on kuitenkin säätää omia yksityisyysasetuksia palvelujen asetuksissa.",
+      "points":3,
+      "text":"Vaihdan salasanani palveluun."
+    },{
+      "result_text":"Hyvä!\n\nKuten tiedätkin, pystyt rajoittamaan vain sitä, mitä muut käyttäjät näkevät sinusta. Itse palvelu näkee kaikki sinne laittamasi tiedot.",
+      "points":4,
+      "text":"Säädän palvelussa yksityisasetukseni haluamallani tavalla."
+    }],
+    "desc":"Valitse omimmalta tuntuva tapa toimia.",
+    "id":21,
+    "shuffle":true,
+    "title":"Haluat rajoittaa sitä, mitä muut näkevät sinusta somessa (kuten Facebookissa, Twitterissä tai Tiktokissa).",
+    "type":"radio"
+  },{
+    "category_id":4,
+    "category_last_question":false,
+    "category_title":false,
+    "choices":[{
+      "correct":true,
+      "text":"Ennen kuin julkaisen luokkakuvani Facebookissa, pyydän kuvassa näkyviltä lupaa."
+    },{
+      "correct":false,
+      "text":"Voin tehdä meemin mistä hyvänsä kuvasta, kunhan meemini ei ole loukkaava."
+    },{
+      "correct":true,
+      "text":"Kun käytän musiikkia, otan huomioon kaikkien sen tekijöiden oikeudet."
+    },{
+      "correct":false,
+      "text":"CC-lisenssi tarkoittaa, että voin käyttää sisältöä täysin vapaasti."
+    }],
+    "desc":"Tässä on neljä väitettä – valitse niistä kaksi oikeaa.",
+    "id":22,
+    "max_count":2,
+    "points":[0,2,4],
+    "result_text":"Meemit eivät ole tekijänoikeuksista vapaa alue – kunnioitathan tekijän oikeuksia.\n\nMusiikilla on yleensä monta tekijää. Esimerkiksi Mozartin tekijänoikeudet ovat rauenneet, mutta hänen teostensa esittäjien suoja-aika voi olla voimassa.\n\nCC-lisenssissä (Creative Commons) tekijä on antanut haluamansa vapaudet käyttää teosta. Lisenssejä on kuitenkin erilaisia. Ehdot selviävät kirjainten CC perässä olevista lisäyksistä.\n\nLuokkakuvan lupa liittyy yksityisyyden suojaan: Kaikki eivät ehkä halua, että kouluaikainen kuva löytyy Facebookista.",
+    "shuffle":true,
+    "title":"Somessa julkaistaan ahkerasti linkkejä, kuvia ja meemejä. Siellä on hyvä osata tekijänoikeuksien perusasiat.",
+    "type":"checkbox"
+  },{
+    "category_id":4,
+    "category_last_question":true,
+    "category_title":false,
+    "choices":[{
+      "result_text":"Instagram on vahvistanut, että kyseessä on tämän urheilijan tili. Julkisuuden henkilön lisäksi myös brändi voi saada merkin verifioinnista.\n\nVastaavia merkkejä on muillakin some-palveluilla.",
+      "points":2,
+      "text":"Ei mitään hajua."
+    },{
+      "result_text":"Instagram on vahvistanut, että kyseessä on tämän urheilijan tili. Julkisuuden henkilön lisäksi myös brändi voi saada merkin verifioinnista.\n\nVastaavia merkkejä on muillakin some-palveluilla.",
+      "points":3,
+      "text":"Hän on maajoukkuetason urheilija."
+    },{
+      "result_text":"Oikein! Instagram ei myönnä verifiointia eli Vahvitettu-merkkiä kuin suosituimmille tileille.\n\nVastaavia merkkejä on muillakin some-palveluilla.",
+      "points":4,
+      "text":"Kyseessä on tämän urheilijan oma tili."
+    }],
+    "desc":false,
+    "id":23,
+    "shuffle":true,
+    "title":"Haet juoksija Nooralotta Nezirin profiilia Instagramista. Mitä tämä merkki hänen nimensä perässä tarkoittaa?",
+    "title_img":"24_verified_merkki.png",
+    "title_img_alt":"Sininen ikoni",
+    "type":"radio"
+  }],
+  "results":[{
+    "emoji":"ikoni_ok.png",
+    "max":25,
+    "min":0,
+    "some_id":"untuvikko",
+    "some_text":"Testasin digitaitojani Ylen Digitreeneissä: Olen digiuntuvikko. Käy testaamassa omat taitosi!",
+    "subtitle":"Taisit vähän yllättyä tuloksesta?",
+    "subtitle2":"Osasitpa arvioida taitosi hyvin.",
+    "text":"Olet digiuntuvikko: selviydyt aivan perusasioissa hyvin. Tiedät, että maltilla ja maalaisjärjellä pärjää digissä pitkälle. Nautit uuden oppimisesta!\n\nTreenaile taitojasi vielä paremmiksi esimerkiksi [Digitreenien peruskurssilla](https://yle.fi/aihe/artikkeli/2019/11/14/digitreenien-peruskurssi-taitoja-uteliaille). Laajaa kurssia voit suorittaa haluamastasi kohdasta, palasen kerrallaan.",
+    "text2":"Olet digiuntuvikko: selviydyt aivan perusasioissa hyvin. Tiedät, että maltilla ja maalaisjärjellä pärjää digissä pitkälle. Nautit uuden oppimisesta!\n\nTreenaile taitojasi vielä paremmiksi esimerkiksi [Digitreenien peruskurssilla](https://yle.fi/aihe/artikkeli/2019/11/14/digitreenien-peruskurssi-taitoja-uteliaille). Laajaa kurssia voit suorittaa haluamastasi kohdasta, palasen kerrallaan.",
+    "title":"Untuvikko"
+  },{
+    "emoji":"ikoni_ok.png",
+    "max":34,
+    "min":26,
+    "some_id":"arvaaja",
+    "some_text":"Testasin digitaitojani Ylen Digitreeneissä: Olen digiarvaaja. Käy testaamassa omat taitosi!",
+    "subtitle":"Taisit vähän yllättyä tuloksesta? ",
+    "subtitle2":"Osasitpa arvioida taitosi hyvin.",
+    "text":"Olet digiarvaaja: selviydyt aivan perusasioissa hyvin. Tiedät, että maltilla ja maalaisjärjellä pärjää digissä pitkälle. Nautit uuden oppimisesta!\n\nTreenaile taitojasi vielä paremmiksi esimerkiksi [Digitreenien peruskurssilla](https://yle.fi/aihe/artikkeli/2019/11/14/digitreenien-peruskurssi-taitoja-uteliaille). Laajaa kurssia voit suorittaa haluamastasi kohdasta, palasen kerrallaan.",
+    "text2":"Olet digiarvaaja: selviydyt aivan perusasioissa hyvin. Tiedät, että maltilla ja maalaisjärjellä pärjää digissä pitkälle. Nautit uuden oppimisesta!\n\nTreenaile taitojasi vielä paremmiksi esimerkiksi [Digitreenien peruskurssilla](https://yle.fi/aihe/artikkeli/2019/11/14/digitreenien-peruskurssi-taitoja-uteliaille). Laajaa kurssia voit suorittaa haluamastasi kohdasta, palasen kerrallaan.",
+    "title":"Arvaaja"
+  },{
+    "emoji":"ikoni_ok.png",
+    "max":44,
+    "min":35,
+    "some_id":"selviaja",
+    "some_text":"Testasin digitaitojani Ylen Digitreeneissä: Olen digiselviäjä. Käy testaamassa omat taitosi!",
+    "subtitle":"Taisit vähän yllättyä tuloksesta? ",
+    "subtitle2":"Osasitpa arvioida taitosi hyvin.",
+    "text":"Olet digiselviäjä: selviydyt aivan perusasioissa hyvin. Tiedät, että maltilla ja maalaisjärjellä pärjää digissä pitkälle. Nautit uuden oppimisesta!\n\nTreenaile taitojasi vielä paremmiksi esimerkiksi [Digitreenien peruskurssilla](https://yle.fi/aihe/artikkeli/2019/11/14/digitreenien-peruskurssi-taitoja-uteliaille). Laajaa kurssia voit suorittaa haluamastasi kohdasta, palasen kerrallaan.",
+    "text2":"Olet digiselviäjä: selviydyt aivan perusasioissa hyvin. Tiedät, että maltilla ja maalaisjärjellä pärjää digissä pitkälle. Nautit uuden oppimisesta!\n\nTreenaile taitojasi vielä paremmiksi esimerkiksi [Digitreenien peruskurssilla](https://yle.fi/aihe/artikkeli/2019/11/14/digitreenien-peruskurssi-taitoja-uteliaille). Laajaa kurssia voit suorittaa haluamastasi kohdasta, palasen kerrallaan.",
+    "title":"Selviäjä"
+  },{
+    "emoji":"ikoni_taputus.png",
+    "max":55,
+    "min":45,
+    "some_id":"parjaaja",
+    "some_text":"Testasin digitaitojani Ylen Digitreeneissä: Olen digiipärjääjä. Käy testaamassa omat taitosi!",
+    "subtitle":"Taisit vähän yllättyä tuloksesta? ",
+    "subtitle2":"Osasitpa arvioida taitosi hyvin!",
+    "text":"Olet digipärjääjä: selviät arkisista tilanteista. Säädät tarvittaessa laitteittesi asetuksia. Et jää kovin helposti huijarin haaviin.\n\nSinulle [Digitreenien artikkeleista](https://yle.fi/aihe/digitreenit) voi löytyä paljon uutta opittavaa. Digitreenien sivulta löydät myös laajan [digisanaston](https://yle.fi/aihe/artikkeli/2019/03/25/mita-ovat-selain-kayttis-ja-wifi-laaja-digisanasto-selittaa-sanat-selvalla)!",
+    "text2":"Olet digipärjääjä: selviät arkisista tilanteista. Säädät tarvittaessa laitteittesi asetuksia. Et jää kovin helposti huijarin haaviin.\n\nSinulle [Digitreenien artikkeleista](https://yle.fi/aihe/digitreenit) voi löytyä paljon uutta opittavaa. Digitreenien sivulta löydät myös laajan [digisanaston](https://yle.fi/aihe/artikkeli/2019/03/25/mita-ovat-selain-kayttis-ja-wifi-laaja-digisanasto-selittaa-sanat-selvalla)!",
+    "title":"Pärjääjä"
+  },{
+    "emoji":"ikoni_taputus.png",
+    "max":66,
+    "min":56,
+    "some_id":"osaaja",
+    "some_text":"Testasin digitaitojani Ylen Digitreeneissä: Olen digiosaaja. Käy testaamassa omat taitosi!",
+    "subtitle":"Taisit vähän yllättyä tuloksesta? ",
+    "subtitle2":"Osasitpa arvioida taitosi hyvin!",
+    "text":"Olet digiosaaja: selviät arkisista tilanteista. Säädät tarvittaessa laitteittesi asetuksia. Et jää kovin helposti huijarin haaviin.\n\nSinulle [Digitreenien artikkeleista](https://yle.fi/aihe/digitreenit) voi löytyä paljon uutta opittavaa. Digitreenien sivulta löydät myös laajan [digisanaston](https://yle.fi/aihe/artikkeli/2019/03/25/mita-ovat-selain-kayttis-ja-wifi-laaja-digisanasto-selittaa-sanat-selvalla)!",
+    "text2":"Olet digiosaaja: selviät arkisista tilanteista. Säädät tarvittaessa laitteittesi asetuksia. Et jää kovin helposti huijarin haaviin.\n\nSinulle [Digitreenien artikkeleista](https://yle.fi/aihe/digitreenit) voi löytyä paljon uutta opittavaa. Digitreenien sivulta löydät myös laajan [digisanaston](https://yle.fi/aihe/artikkeli/2019/03/25/mita-ovat-selain-kayttis-ja-wifi-laaja-digisanasto-selittaa-sanat-selvalla)!",
+    "title":"Osaaja"
+  },{
+    "emoji":"ikoni_taputus.png",
+    "max":75,
+    "min":67,
+    "some_id":"taitaja",
+    "some_text":"Testasin digitaitojani Ylen Digitreeneissä: Olen digitaitaja. Käy testaamassa omat taitosi!",
+    "subtitle":"Taisit vähän yllättyä tuloksesta? ",
+    "subtitle2":"Osasitpa arvioida taitosi hyvin!",
+    "text":"Olet digitaitaja: selviät arkisista tilanteista. Säädät tarvittaessa laitteittesi asetuksia. Et jää kovin helposti huijarin haaviin.\n\nSinulle [Digitreenien artikkeleista](https://yle.fi/aihe/digitreenit) voi löytyä paljon uutta opittavaa. Digitreenien sivulta löydät myös laajan [digisanaston](https://yle.fi/aihe/artikkeli/2019/03/25/mita-ovat-selain-kayttis-ja-wifi-laaja-digisanasto-selittaa-sanat-selvalla)!",
+    "text2":"Olet digitaitaja: selviät arkisista tilanteista. Säädät tarvittaessa laitteittesi asetuksia. Et jää kovin helposti huijarin haaviin.\n\nSinulle [Digitreenien artikkeleista](https://yle.fi/aihe/digitreenit) voi löytyä paljon uutta opittavaa. Digitreenien sivulta löydät myös laajan [digisanaston](https://yle.fi/aihe/artikkeli/2019/03/25/mita-ovat-selain-kayttis-ja-wifi-laaja-digisanasto-selittaa-sanat-selvalla)!",
+    "title":"Taitaja"
+  },{
+    "emoji":"ikoni_hauis.png",
+    "max":83,
+    "min":76,
+    "some_id":"auttaja",
+    "some_text":"Testasin digitaitojani Ylen Digitreeneissä: Olen digiauttaja. Käy testaamassa omat taitosi!",
+    "subtitle":"Taisit vähän yllättyä tuloksesta? ",
+    "subtitle2":"Osasitpa arvioida taitosi hyvin!",
+    "text":"Olet digiauttaja: nautit digihaasteista ja ymmärrät oman datasi arvon. Muut arvostavat varmasti sinulta saamaasi apua!\n\nSaatat löytää uutta opittavaa [Digitreenien artikkeleista](https://yle.fi/aihe/digitreenit). Käy myös katsomassa, puuttuuko [digisanastosta](https://yle.fi/aihe/artikkeli/2019/03/25/mita-ovat-selain-kayttis-ja-wifi-laaja-digisanasto-selittaa-sanat-selvalla) joku sana!",
+    "text2":"Olet digiauttaja: nautit digihaasteista ja ymmärrät oman datasi arvon. Muut arvostavat varmasti sinulta saamaasi apua!\n\nSaatat löytää uutta opittavaa [Digitreenien artikkeleista](https://yle.fi/aihe/digitreenit). Käy myös katsomassa, puuttuuko [digisanastosta](https://yle.fi/aihe/artikkeli/2019/03/25/mita-ovat-selain-kayttis-ja-wifi-laaja-digisanasto-selittaa-sanat-selvalla) joku sana!",
+    "title":"Auttaja"
+  },{
+    "emoji":"ikoni_hauis.png",
+    "max":91,
+    "min":84,
+    "some_id":"assa",
+    "some_text":"Testasin digitaitojani Ylen Digitreeneissä: Olen digiässä. Käy testaamassa omat taitosi!",
+    "subtitle":"Taisit vähän yllättyä tuloksesta? ",
+    "subtitle2":"Osasitpa arvioida taitosi hyvin!",
+    "text":"Olet digiässä: nautit digihaasteista ja ymmärrät oman datasi arvon. Muut arvostavat varmasti sinulta saamaasi apua!\n\nSaatat löytää uutta opittavaa [Digitreenien artikkeleista](https://yle.fi/aihe/digitreenit). Käy myös katsomassa, puuttuuko [digisanastosta](https://yle.fi/aihe/artikkeli/2019/03/25/mita-ovat-selain-kayttis-ja-wifi-laaja-digisanasto-selittaa-sanat-selvalla) joku sana!",
+    "text2":"Olet digiässä: nautit digihaasteista ja ymmärrät oman datasi arvon. Muut arvostavat varmasti sinulta saamaasi apua!\n\nSaatat löytää uutta opittavaa [Digitreenien artikkeleista](https://yle.fi/aihe/digitreenit). Käy myös katsomassa, puuttuuko [digisanastosta](https://yle.fi/aihe/artikkeli/2019/03/25/mita-ovat-selain-kayttis-ja-wifi-laaja-digisanasto-selittaa-sanat-selvalla) joku sana!",
+    "title":"Ässä"
+  },{
+    "emoji":"ikoni_hauis.png",
+    "max":9999,
+    "min":92,
+    "some_id":"velho",
+    "some_text":"Testasin digitaitojani Ylen Digitreeneissä: Olen digivelho. Käy testaamassa omat taitosi!",
+    "subtitle":"Taisit vähän yllättyä tuloksesta? ",
+    "subtitle2":"Osasitpa arvioida taitosi hyvin!",
+    "text":"Olet digivelho: nautit digihaasteista ja ymmärrät oman datasi arvon. Muut arvostavat varmasti sinulta saamaasi apua!\n\nSaatat löytää uutta opittavaa [Digitreenien artikkeleista](https://yle.fi/aihe/digitreenit). Käy myös katsomassa, puuttuuko [digisanastosta](https://yle.fi/aihe/artikkeli/2019/03/25/mita-ovat-selain-kayttis-ja-wifi-laaja-digisanasto-selittaa-sanat-selvalla) joku sana!",
+    "text2":"Olet digivelho: nautit digihaasteista ja ymmärrät oman datasi arvon. Muut arvostavat varmasti sinulta saamaasi apua!\n\nSaatat löytää uutta opittavaa [Digitreenien artikkeleista](https://yle.fi/aihe/digitreenit). Käy myös katsomassa, puuttuuko [digisanastosta](https://yle.fi/aihe/artikkeli/2019/03/25/mita-ovat-selain-kayttis-ja-wifi-laaja-digisanasto-selittaa-sanat-selvalla) joku sana!",
+    "title":"Velho"
+  }]
+}
