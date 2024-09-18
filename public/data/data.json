@@ -796,15 +796,15 @@
     "category_last_question":true,
     "category_title":false,
     "choices":[{
-      "result_text":"Instagram on vahvistanut, että kyseessä on tämän urheilijan tili. Julkisuuden henkilön lisäksi myös brändi voi saada merkin verifioinnista.\n\nVastaavia merkkejä on muillakin some-palveluilla.",
+      "result_text":"Instagram on vahvistanut, että kyseessä on tämän julkisuuden henkilön tili. Myös brändi voi saada merkin verifioinnista.\n\nVastaavia vahvistuksia on muillakin somepalveluilla. Joissakin tapauksissa ne edellyttävät maksua.",
       "points":2,
       "text":"Ei mitään hajua."
     },{
-      "result_text":"Instagram on vahvistanut, että kyseessä on tämän urheilijan tili. Julkisuuden henkilön lisäksi myös brändi voi saada merkin verifioinnista.\n\nVastaavia merkkejä on muillakin some-palveluilla.",
+      "result_text":"Instagram on vahvistanut, että kyseessä on tämän julkisuuden henkilön tili. Myös brändi voi saada merkin verifioinnista.\n\nVastaavia vahvistuksia on muillakin somepalveluilla. Joissakin tapauksissa ne edellyttävät maksua.",
       "points":3,
       "text":"Hän on maajoukkuetason urheilija."
     },{
-      "result_text":"Oikein! Instagram ei myönnä verifiointia eli Vahvitettu-merkkiä kuin suosituimmille tileille.\n\nVastaavia merkkejä on muillakin some-palveluilla.",
+      "result_text":"Oikein! Instagram myöntää merkin vain suosituimmille tileille.\n\nVastaavia vahvistuksia on muillakin somepalveluilla. Joissakin tapauksissa ne edellyttävät maksua.",
       "points":4,
       "text":"Kyseessä on tämän urheilijan oma tili."
     }],
